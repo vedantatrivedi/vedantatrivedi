@@ -22,7 +22,8 @@
 <a href="https://www.hackerrank.com/vedantatrivedi_1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vedantatrivedi_1" height="30" width="40" /></a>
 <a href="/https://medium.com/feed/@vedantatrivedi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://medium.com/feed/@vedantatrivedi" height="30" width="40" /></a>
 </p>
-### Blog posts
+
+## Blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
