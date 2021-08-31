@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vedanta Trivedi</h1>
 <h3 align="center">An Aspiring Software Engineer, and a sports afficianado.</h3>
-
+<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" />
 - 🔭 I’m currently working on [Muse](https://github.com/vedantatrivedi/Muse)
 
 - 🌱 I’m currently learning **React Native and NLP**
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **vedantatrivedi.trivedi@gmail.com**
 
-<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" />
+
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
