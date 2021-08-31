@@ -25,6 +25,7 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Why are Arsenal’s transfers so bad?](https://vedantatrivedi.medium.com/why-are-arsenals-transfers-so-bad-2b79ff409ba?source=rss-68d9946f7767------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
