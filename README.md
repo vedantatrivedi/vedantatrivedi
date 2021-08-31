@@ -6,11 +6,11 @@
 
 - 🌱 I’m currently learning **React Native and NLP**
 
-- 👨‍💻 All of my projects are available at [vedantatrivedi.tech](vedantatrivedi.tech)
+- 👨‍💻 All of my projects are available at [vedantatrivedi.tech](https://vedantatrivedi.tech)
 
-- 📝 I regularly write articles on [vedantatrivedi.medium.com](vedantatrivedi.medium.com)
+- 📝 I regularly write articles on [vedantatrivedi.medium.com](https://vedantatrivedi.medium.com/)
 
-- 📫 How to reach me **vedantatrivedi.trivedi@gmail.com**
+- 📫 Reach me at - **vedantatrivedi.trivedi@gmail.com**
 
 
 
