@@ -2,7 +2,7 @@
 <h3 align="center">An Aspiring Software Engineer, and a sports afficianado.</h3>
 <img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" />
 
-- 🔭 I’m currently working on [Muse](https://github.com/vedantatrivedi/Muse)
+- 🔭 I’m currently working on improving [Muse](https://github.com/vedantatrivedi/Muse)
 
 - 🌱 I’m currently learning **React Native and NLP**
 
