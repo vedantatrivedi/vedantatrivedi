@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **React Native and NLP**
 
-- 👨‍💻 All of my projects are available at [vedantatrivedi.tech](https://vedantatrivedi.tech)
+- 👨‍💻 All of my projects are available at [vedantatrivedi.github.io](https://vedantatrivedi.github.io)
 
 - 📝 I regularly write articles on [vedantatrivedi.medium.com](https://vedantatrivedi.medium.com/)
 
