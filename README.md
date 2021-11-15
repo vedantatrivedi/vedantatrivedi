@@ -2,9 +2,9 @@
 <h3 align="center">An Aspiring Software Engineer, and a Sports Afficianado.</h3>
 <img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" />
 
-- 🔭 I’m currently working on improving [Muse](https://github.com/vedantatrivedi/Muse)
+- 🔭 I’m currently working on improving [MindPal](https://github.com/vedantatrivedi/mindpal)
 
-- 🌱 I’m currently learning **React Native and NLP**
+- 🌱 I’m currently learning **Flutter and NLP**
 
 - 👨‍💻 All of my projects are available at [vedantatrivedi.github.io](https://vedantatrivedi.github.io)
 
