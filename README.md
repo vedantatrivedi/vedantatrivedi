@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on improving [MindPal](https://github.com/vedantatrivedi/mindpal)
 
-- 🌱 I’m currently learning **Flutter and NLP**
+- 🌱 I’m currently learning **ReactJS and NLP**
 
 - 👨‍💻 All of my projects are available at [vedantatrivedi.github.io](https://vedantatrivedi.github.io)
 
