@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vedanta Trivedi</h1>
-<h3 align="center">An Aspiring Software Engineer, and a Sports Afficianado.</h3>
+<h3 align="center">A Software Engineer, and a Sports Afficianado.</h3>
 <img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" />
-
-- 🔭 I’m currently working on improving [MindPal](https://github.com/vedantatrivedi/mindpal)
-
-- 🌱 I’m currently learning **ReactJS and NLP**
 
 - 👨‍💻 All of my projects are available at [vedantatrivedi.github.io](https://vedantatrivedi.github.io)
 
