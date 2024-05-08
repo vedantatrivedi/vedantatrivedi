@@ -2,8 +2,6 @@
 <h3 align="center">A Software Engineer, and a Sports Afficianado.</h3>
 <img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" />
 
-- 👨‍💻 All of my projects are available at [vedantatrivedi.github.io](https://vedantatrivedi.github.io)
-
 - 📝 I regularly write articles on [vedantatrivedi.medium.com](https://vedantatrivedi.medium.com/)
 
 - 📫 Reach me at - **vedantatrivedi.trivedi@gmail.com**
